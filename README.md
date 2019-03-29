@@ -1,3 +1,8 @@
+# [ARCHIVED]
+Please refer to our up-to-date reference app instead: https://github.com/socialvibe/truex-tvos-google-ad-manager-reference-app
+
+***
+
 # Overview
 
 This project contains sample source code that demonstrates how to integrate the True[X]
